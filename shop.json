@@ -3,7 +3,7 @@
     {
       "name": "Bottle Humidifier (440ml capacity)",
       "category": "Technics",
-      "price": "42.00",
+      "price": "142.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/Bottle_Humidifier.png"
     },
     {
@@ -15,25 +15,25 @@
     {
       "name": "Rolex Navigator Watch",
       "category": "Accessories",
-      "price": "399.00",
+      "price": "299.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/grey_watch.png"
     },
     {
       "name": "Fancy Teapot",
       "category": "Dining",
-      "price": "26.00",
+      "price": "45.99",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/teapot.png"
     },
     {
       "name": "Sweeper Funnel",
       "category": "Living",
-      "price": "15.00",
+      "price": "10.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/sweeper_funnel.png"
     },
     {
       "name": "LED Bulb",
       "category": "Lighting",
-      "price": "9.00",
+      "price": "20.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/white_bulb.png"
     },
     {
@@ -45,55 +45,55 @@
     {
       "name": "Black Chair",
       "category": "Furniture",
-      "price": "59.00",
+      "price": "129.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/black_chair.png"
     },
     {
       "name": "Black Mug",
       "category": "Dining",
-      "price": "12.00",
+      "price": "25.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/black_mug.jpg"
     },
     {
       "name": "White Clock",
       "category": "Living",
-      "price": "29.00",
+      "price": "99.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/clock.jpg"
     },
     {
       "name": "Dope Headphones",
       "category": "Technics",
-      "price": "69.00",
+      "price": "269.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/headphones_big.jpg"
     },
     {
       "name": "Small Headphones",
       "category": "Technics",
-      "price": "49.00",
+      "price": "110.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/headphones_small.jpg"
     },
     {
       "name": "Jewelry Box",
       "category": "Living",
-      "price": "40.00",
+      "price": "180.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/jewelry_box.jpg"
     },
     {
       "name": "Light Hanging",
       "category": "Lighting",
-      "price": "89.00",
+      "price": "289.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/light_hanging.jpg"
     },
     {
       "name": "Light Standing",
       "category": "Lighting",
-      "price": "139.00",
+      "price": "239.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/light_standing.jpg"
     },
     {
       "name": "Red Chair",
       "category": "Furniture",
-      "price": "79.00",
+      "price": "159.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/red_chair.jpg"
     },
     {
@@ -105,7 +105,7 @@
     {
       "name": "White Mug",
       "category": "Dining",
-      "price": "21.00",
+      "price": "25.00",
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/white_mug.jpg"
     }
   ]
