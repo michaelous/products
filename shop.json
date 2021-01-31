@@ -31,12 +31,6 @@
       "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/sweeper_funnel.png"
     },
     {
-      "name": "LED Bulb",
-      "category": "Lighting",
-      "price": "20.00",
-      "image": "https://raw.githubusercontent.com/michaelous/pics_json/master/white_bulb.png"
-    },
-    {
       "name": "Black Watch",
       "category": "Accessories",
       "price": "199.00",
